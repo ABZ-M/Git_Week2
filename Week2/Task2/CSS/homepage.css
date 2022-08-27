@@ -1,0 +1,28 @@
+.container
+{
+    background-color: rgb(238, 255, 238);
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    margin-left: 670px;
+}
+
+.h1
+{
+    color: lightblue;
+}
+
+.h2
+{
+    color: #D2B4DE;
+}
+
+.h3
+{
+    color: rgb(55, 152, 255);
+}
+
+.h4
+{
+    color: hsl(6, 78%, 66%);
+}
